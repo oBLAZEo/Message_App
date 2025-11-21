@@ -1,4 +1,4 @@
-<?php
+i<?php
 
 /**
  * Generate a 6-digit numeric verification code.
